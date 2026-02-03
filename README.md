@@ -13,7 +13,7 @@ Deeply researching:
 
 ### 📊 GitHub Stats
 
-[![fa-ina-tic's GitHub stats](https://github-readme-stats-three-xi-73.vercel.app/api?username=fa-ina-tic&sanitize=true)](https://github.com/anuraghazra/github-readme-stats)
+[![fa-ina-tic's GitHub stats](https://github-readme-stats-three-xi-73.vercel.app/api?username=fa-ina-tic&sanitize=true&commits_year=2026)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
