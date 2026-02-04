@@ -20,9 +20,9 @@ Deeply researching:
 ### 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4073](https://github.com/quic/aimet/pull/4073#issuecomment-3839233561) in [quic/aimet](https://github.com/quic/aimet)
-2. ❌ Closed PR [#4073](https://github.com/quic/aimet/pull/4073) in [quic/aimet](https://github.com/quic/aimet)
-3. 💪 Opened PR [#4073](https://github.com/quic/aimet/pull/4073) in [quic/aimet](https://github.com/quic/aimet)
-4. 🗣 Commented on [#4064](https://github.com/quic/aimet/issues/4064#issuecomment-3821348183) in [quic/aimet](https://github.com/quic/aimet)
-5. 🗣 Commented on [#4064](https://github.com/quic/aimet/issues/4064#issuecomment-3811623877) in [quic/aimet](https://github.com/quic/aimet)
+1. ❗ Opened issue [#2](https://github.com/fa-ina-tic/mini-TGI/issues/2) in [fa-ina-tic/mini-TGI](https://github.com/fa-ina-tic/mini-TGI)
+2. 🗣 Commented on [#1](https://github.com/fa-ina-tic/mini-TGI/issues/1#issuecomment-3845570325) in [fa-ina-tic/mini-TGI](https://github.com/fa-ina-tic/mini-TGI)
+3. ❗ Opened issue [#1](https://github.com/fa-ina-tic/mini-TGI/issues/1) in [fa-ina-tic/mini-TGI](https://github.com/fa-ina-tic/mini-TGI)
+4. 🗣 Commented on [#4073](https://github.com/quic/aimet/pull/4073#issuecomment-3839233561) in [quic/aimet](https://github.com/quic/aimet)
+5. ❌ Closed PR [#4073](https://github.com/quic/aimet/pull/4073) in [quic/aimet](https://github.com/quic/aimet)
 <!--END_SECTION:activity-->
