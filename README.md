@@ -2,7 +2,7 @@
 
 Focused on enhancing productivity for individuals and teams through AI
 
-Currently interested in Knowledge-Based (RAG) On-Device AI Services
+Currently interested in developing Knowledge-Based AI services
 
 Deeply researching:
 - AIMET - Qualcomm's AI Model Efficiency Toolkit
