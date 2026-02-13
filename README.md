@@ -8,6 +8,7 @@ Deeply researching:
 - AIMET - Qualcomm's AI Model Efficiency Toolkit
 - Memvid - Video-based memory system
 - ExecuTorch - On-device execution for PyTorch models
+- TorchAO -PyTorch models' quantization
 
 ---
 
